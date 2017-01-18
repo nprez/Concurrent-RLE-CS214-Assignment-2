@@ -1,0 +1,10 @@
+We tested a wide variety of test cases.  These include, but are not limited to:
+
+-various files sizes
+-different amount of character repetition
+-different numbers of parts
+-many non alphabetic characters
+-more parts than alphabetic characters
+-invalid arguments
+-files that do not exist
+-various other standard cases
